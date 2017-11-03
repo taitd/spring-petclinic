@@ -1,5 +1,5 @@
 pkg_name=spring-petclinic
-pkg_origin=jtimberman
+pkg_origin=taitd
 pkg_version=4.2.6
 pkg_maintainer='The Habitat Maintainers <humans@habitat.sh>'
 pkg_license=('Apache-2.0')

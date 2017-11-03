@@ -1,0 +1,4 @@
+root_password = "zanzibar"
+app_username  = "pc"
+app_password  = "pc"
+bind          = "0.0.0.0"

@@ -1,0 +1,7 @@
+[server]
+catalina-opts = "-Djava.security.egd=file:/dev/./urandom -Djdbc.driverClassName=com.mysql.jdbc.Driver -Djdbc.initLocation=classpath:db/mysql/initDB.sql -Djdbc.dataLocation=classpath:db/mysql/populateDB.sql -Djdbc.username=pc -Djdbc.password=pc -Djpa.database=MYSQL -Djdbc.url=jdbc:mysql://172.17.0.3:3306/petclinic"
+
+[database]
+username = "pc"
+password = "pc"
+use-hsqldb = false
